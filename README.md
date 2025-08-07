@@ -59,6 +59,15 @@
 
 <img 
     align="left" 
+    alt="Dart" 
+    title="Dart"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
+/>
+
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
