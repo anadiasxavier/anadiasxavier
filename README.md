@@ -1,9 +1,9 @@
 ## 👩🏻‍💻 Hi! I'm Ana
 
-- Atualmente sou estudante do curso técnico de Desenvolvimento de Sistemas no SENAI.
-- Trabalho como Jovem Aprendiz na Bosch, na área de Digital Solutions.
-- Apaixonada por tecnologia e leitura — estou sempre em busca de novos aprendizados!
-- Tenho muito interesse em me aprofundar cada vez mais em Frontend e nas áreas de UI/UX Design.
+- Atualmente, sou estudante do curso técnico de Desenvolvimento de Sistemas no SENAI.
+- Curso Bacharelado em Sistemas de Informação na PUC. 
+- Trabalho como Jovem Aprendiz na Bosch, na área de Digital Solutions. 
+- Tenho grande interesse em me aprofundar cada vez mais em Frontend e nas áreas de UI/UX Design.
 
 <br/>
 <div> 
