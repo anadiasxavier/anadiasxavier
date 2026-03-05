@@ -27,9 +27,9 @@ Estou sempre buscando aprender novas tecnologias e evoluir como desenvolvedora.
 
 ---
 
-# 🚀 Tecnologias e Ferramentas
 
-### 💻 Linguagens
+
+
 
 <img 
 align="left" 
@@ -82,7 +82,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
 <br/>
 <br/>
 
-### ⚙️ Frameworks e Ferramentas
 
 <img 
 align="left" 
@@ -128,36 +127,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg
 <br/>
 
 ---
-
-#  Estatísticas do GitHub
-
-<img 
-height="160"
-src="https://github-readme-stats.vercel.app/api?username=anadiasxavier&show_icons=true&theme=tokyonight"
-/>
-
-<img 
-height="160"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadiasxavier&layout=compact&theme=tokyonight"
-/>
-
----
-
-#  Atualmente aprendendo
-
-- React
-- UI/UX Design
-- Desenvolvimento Frontend
-- Boas práticas de desenvolvimento
-
----
-
-#  Objetivos
-
-🚀 Evoluir como desenvolvedora **Frontend**  
-🎨 Me especializar em **UI/UX Design**  
-💻 Trabalhar criando **interfaces modernas e intuitivas**
-
----
-
- Obrigada por visitar meu perfil!
